@@ -1,6 +1,6 @@
 ! Copyright (C) 2020 Doug Coleman.
 ! See http://factorcode.org/license.txt for BSD license.
-USING: accessors assocs fry hashtables io io.directories
+USING: accessors assocs hashtables io io.directories
 io.files.types io.pathnames kernel namespaces prettyprint
 sequences sequences.extras sets splitting system vocabs
 vocabs.loader words ;
